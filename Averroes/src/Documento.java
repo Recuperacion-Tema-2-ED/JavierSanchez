@@ -1,3 +1,4 @@
+//Autor: Javier Sánchez Muñoz.
 public class Documento {
     private String nombreDocumento;
 
